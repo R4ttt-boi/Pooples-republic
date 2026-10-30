@@ -1,0 +1,1541 @@
+{
+    "name": null,
+    "role": "generic",
+    "actions": [],
+    "value": "",
+    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
+    "nodeType": 1,
+    "description": "",
+    "keyboardShortcut": "",
+    "childCount": 5,
+    "indexInParent": 37,
+    "states": [
+        "selectable text",
+        "opaque",
+        "enabled",
+        "sensitive"
+    ],
+    "children": [
+        {
+            "name": null,
+            "role": "generic",
+            "actions": [],
+            "value": "",
+            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+            "nodeType": 1,
+            "description": "",
+            "keyboardShortcut": "",
+            "childCount": 1,
+            "indexInParent": 0,
+            "states": [
+                "selectable text",
+                "opaque",
+                "enabled",
+                "sensitive"
+            ],
+            "children": [
+                {
+                    "name": "Local small businesses receive quick financial help when unexpected economic difficulties threaten their operations. The municipality, companies and other supporters set up a joint crisis fund that helps struggling companies with preferential bridging loans, non-repayable grants and business advice. The programme primarily supports smaller shops, service providers and start-ups. Its aim is to preserve jobs, prevent business closures and strengthen the stability of the local economy.",
+                    "role": "text leaf",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)#text",
+                    "nodeType": 3,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 0,
+                    "indexInParent": 0,
+                    "states": [
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [],
+                    "attributes": {
+                        "explicit-name": "true"
+                    }
+                }
+            ],
+            "attributes": {
+                "margin-top": "0px",
+                "margin-bottom": "16px",
+                "formatting": "block",
+                "class": "desc mb-1",
+                "tag": "div",
+                "margin-right": "0px",
+                "text-indent": "0px",
+                "text-align": "start",
+                "display": "block",
+                "margin-left": "0px"
+            }
+        },
+        {
+            "name": null,
+            "role": "generic",
+            "actions": [],
+            "value": "",
+            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2)",
+            "nodeType": 1,
+            "description": "",
+            "keyboardShortcut": "",
+            "childCount": 3,
+            "indexInParent": 1,
+            "states": [
+                "selectable text",
+                "opaque",
+                "enabled",
+                "sensitive"
+            ],
+            "children": [
+                {
+                    "name": "Finance",
+                    "role": "heading",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > h4:nth-child(1)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 1,
+                    "indexInParent": 0,
+                    "states": [
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Finance",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > h4:nth-child(1)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "level": "4",
+                        "tag": "h4",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "start",
+                        "display": "block",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": null,
+                    "role": "list",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 4,
+                    "indexInParent": 1,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Startup cost: 3,000",
+                            "role": "listitem",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)",
+                            "nodeType": 1,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 3,
+                            "indexInParent": 0,
+                            "states": [
+                                "readonly",
+                                "selectable text",
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [
+                                {
+                                    "name": "Startup cost",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 0,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": ": ",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 1,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": "3,000",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 2,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "margin-top": "0px",
+                                "margin-bottom": "0px",
+                                "formatting": "block",
+                                "posinset": "1",
+                                "tag": "li",
+                                "margin-right": "0px",
+                                "text-indent": "0px",
+                                "text-align": "left",
+                                "display": "list-item",
+                                "setsize": "4",
+                                "margin-left": "0px"
+                            }
+                        },
+                        {
+                            "name": "Running cost: 5,000",
+                            "role": "listitem",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)",
+                            "nodeType": 1,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 3,
+                            "indexInParent": 1,
+                            "states": [
+                                "readonly",
+                                "selectable text",
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [
+                                {
+                                    "name": "Running cost",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 0,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": ": ",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 1,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": "5,000",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 2,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "margin-top": "0px",
+                                "margin-bottom": "0px",
+                                "formatting": "block",
+                                "posinset": "2",
+                                "tag": "li",
+                                "margin-right": "0px",
+                                "text-indent": "0px",
+                                "text-align": "left",
+                                "display": "list-item",
+                                "setsize": "4",
+                                "margin-left": "0px"
+                            }
+                        },
+                        {
+                            "name": "Investment: 18,000",
+                            "role": "listitem",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)",
+                            "nodeType": 1,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 3,
+                            "indexInParent": 2,
+                            "states": [
+                                "readonly",
+                                "selectable text",
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [
+                                {
+                                    "name": "Investment",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 0,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": ": ",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 1,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": "18,000",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 2,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "margin-top": "0px",
+                                "margin-bottom": "0px",
+                                "formatting": "block",
+                                "posinset": "3",
+                                "tag": "li",
+                                "margin-right": "0px",
+                                "text-indent": "0px",
+                                "text-align": "left",
+                                "display": "list-item",
+                                "setsize": "4",
+                                "margin-left": "0px"
+                            }
+                        },
+                        {
+                            "name": "Development support from the partner company: 8,000",
+                            "role": "listitem",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)",
+                            "nodeType": 1,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 3,
+                            "indexInParent": 3,
+                            "states": [
+                                "readonly",
+                                "selectable text",
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [
+                                {
+                                    "name": "Development support from the partner company",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 0,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": ": ",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 1,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                },
+                                {
+                                    "name": "8,000",
+                                    "role": "text leaf",
+                                    "actions": [],
+                                    "value": "",
+                                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                                    "nodeType": 3,
+                                    "description": "",
+                                    "keyboardShortcut": "",
+                                    "childCount": 0,
+                                    "indexInParent": 2,
+                                    "states": [
+                                        "opaque",
+                                        "enabled",
+                                        "sensitive"
+                                    ],
+                                    "children": [],
+                                    "attributes": {
+                                        "explicit-name": "true"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "margin-top": "0px",
+                                "margin-bottom": "0px",
+                                "formatting": "block",
+                                "posinset": "4",
+                                "tag": "li",
+                                "margin-right": "0px",
+                                "text-indent": "0px",
+                                "text-align": "left",
+                                "display": "list-item",
+                                "setsize": "4",
+                                "margin-left": "0px"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "16px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "child-item-count": "4",
+                        "tag": "ul",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "start",
+                        "class": "finances mt-1",
+                        "display": "block",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": null,
+                    "role": "whitespace",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > br:nth-child(2)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 0,
+                    "indexInParent": 2,
+                    "states": [
+                        "readonly",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "tag": "br",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "start",
+                        "display": "inline",
+                        "margin-left": "0px"
+                    }
+                }
+            ],
+            "attributes": {
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "formatting": "block",
+                "class": "col-6",
+                "tag": "div",
+                "margin-right": "0px",
+                "text-indent": "0px",
+                "text-align": "start",
+                "display": "block",
+                "margin-left": "0px"
+            }
+        },
+        {
+            "name": "Effects",
+            "role": "heading",
+            "actions": [],
+            "value": "",
+            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > h4:nth-child(1)",
+            "nodeType": 1,
+            "description": "",
+            "keyboardShortcut": "",
+            "childCount": 1,
+            "indexInParent": 2,
+            "states": [
+                "selectable text",
+                "opaque",
+                "enabled",
+                "sensitive"
+            ],
+            "children": [
+                {
+                    "name": "Effects",
+                    "role": "text leaf",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > h4:nth-child(1)#text",
+                    "nodeType": 3,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 0,
+                    "indexInParent": 0,
+                    "states": [
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [],
+                    "attributes": {
+                        "explicit-name": "true"
+                    }
+                }
+            ],
+            "attributes": {
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "formatting": "block",
+                "level": "4",
+                "tag": "h4",
+                "margin-right": "0px",
+                "text-indent": "0px",
+                "text-align": "start",
+                "display": "block",
+                "margin-left": "0px"
+            }
+        },
+        {
+            "name": null,
+            "role": "list",
+            "actions": [],
+            "value": "",
+            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2)",
+            "nodeType": 1,
+            "description": "",
+            "keyboardShortcut": "",
+            "childCount": 8,
+            "indexInParent": 3,
+            "states": [
+                "readonly",
+                "selectable text",
+                "opaque",
+                "enabled",
+                "sensitive"
+            ],
+            "children": [
+                {
+                    "name": "Business-friendliness: 0.4%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 0,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Business-friendliness",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.4%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(1)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "1",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Administration: 0.1%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 1,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Administration",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.1%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(2)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "2",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Digitalization: 0.2%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 2,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Digitalization",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.2%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(3)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "3",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Social: 0.3%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 3,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Social",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.3%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(4)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "4",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Population conditions/satisfaction: 0.1%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(5)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 4,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Population conditions/satisfaction",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(5)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(5)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.1%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(5)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "5",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Working conditions: 0.2%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(6)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 5,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Working conditions",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(6)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(6)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.2%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(6)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "6",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Unemployment: -0.6%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(7)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 6,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Unemployment",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(7)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(7)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "-0.6%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(7)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "7",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                },
+                {
+                    "name": "Number of small companies: 0.02%",
+                    "role": "listitem",
+                    "actions": [],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(8)",
+                    "nodeType": 1,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 3,
+                    "indexInParent": 7,
+                    "states": [
+                        "readonly",
+                        "selectable text",
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [
+                        {
+                            "name": "Number of small companies",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(8)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 0,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": ": ",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(8)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 1,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        },
+                        {
+                            "name": "0.02%",
+                            "role": "text leaf",
+                            "actions": [],
+                            "value": "",
+                            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > ul:nth-child(2) > li:nth-child(8)#text",
+                            "nodeType": 3,
+                            "description": "",
+                            "keyboardShortcut": "",
+                            "childCount": 0,
+                            "indexInParent": 2,
+                            "states": [
+                                "opaque",
+                                "enabled",
+                                "sensitive"
+                            ],
+                            "children": [],
+                            "attributes": {
+                                "explicit-name": "true"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "margin-top": "0px",
+                        "margin-bottom": "0px",
+                        "formatting": "block",
+                        "posinset": "8",
+                        "tag": "li",
+                        "margin-right": "0px",
+                        "text-indent": "0px",
+                        "text-align": "left",
+                        "display": "list-item",
+                        "setsize": "8",
+                        "margin-left": "0px"
+                    }
+                }
+            ],
+            "attributes": {
+                "margin-top": "16px",
+                "margin-bottom": "0px",
+                "formatting": "block",
+                "child-item-count": "8",
+                "tag": "ul",
+                "margin-right": "0px",
+                "text-indent": "0px",
+                "text-align": "start",
+                "class": "effects mt-1",
+                "display": "block",
+                "margin-left": "0px"
+            }
+        },
+        {
+            "name": "Start",
+            "role": "button",
+            "actions": [
+                "Press"
+            ],
+            "value": "",
+            "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > button:nth-child(2)",
+            "nodeType": 1,
+            "description": "",
+            "keyboardShortcut": "",
+            "childCount": 1,
+            "indexInParent": 4,
+            "states": [
+                "focusable",
+                "opaque",
+                "enabled",
+                "sensitive"
+            ],
+            "children": [
+                {
+                    "name": "Start",
+                    "role": "text leaf",
+                    "actions": [
+                        "Click ancestor"
+                    ],
+                    "value": "",
+                    "nodeCssSelector": "div.row:nth-child(12) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > button:nth-child(2) > span:nth-child(1) > span:nth-child(1)#text",
+                    "nodeType": 3,
+                    "description": "",
+                    "keyboardShortcut": "",
+                    "childCount": 0,
+                    "indexInParent": 0,
+                    "states": [
+                        "opaque",
+                        "enabled",
+                        "sensitive"
+                    ],
+                    "children": [],
+                    "attributes": {
+                        "explicit-name": "true"
+                    }
+                }
+            ],
+            "attributes": {
+                "margin-top": "0px",
+                "margin-bottom": "0px",
+                "formatting": "block",
+                "class": "button primary",
+                "tag": "button",
+                "margin-right": "0px",
+                "text-indent": "0px",
+                "text-align": "center",
+                "display": "inline-block",
+                "margin-left": "0px"
+            }
+        }
+    ],
+    "attributes": {
+        "margin-top": "0px",
+        "margin-bottom": "0px",
+        "formatting": "block",
+        "class": "body",
+        "tag": "div",
+        "margin-right": "0px",
+        "text-indent": "0px",
+        "text-align": "start",
+        "display": "block",
+        "margin-left": "0px"
+    }
+}
