@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Economic Development",
+    "description": "Why should you cross the whole city for everything when it can be done locally? The project supports the creation of local small markets, community gardens, repair workshops, family services and community enterprises. Residential communities can shape their surroundings based on their own ideas and needs, while new jobs and more accessible services are created. The development strengthens neighbourhood ties and can save residents time and money.",
+    "finance": [
+      "Startup cost: 6,000",
+      "Running cost: 2,400",
+      "Investment: 18,000",
+      "Development support from the partner company: 3,000"
+    ],
+    "effects": [
+      "Business-friendliness: 1%",
+      "Sustainability: 0.5%",
+      "Ratio of green areas: 0.1%",
+      "Waste management situation: 0.5%",
+      "Social: 0.4%",
+      "Ratio of people in a poor social situation: -0.2%",
+      "Settlement development: 0.4%",
+      "Population conditions/satisfaction: 0.5%",
+      "Unemployment: -0.3%",
+      "Number of small companies: 0.04%"
+    ]
+  },
+  {
+    "name": "2 - Commercial and Cultural Centre",
+    "description": "A vibrant city centre with an international atmosphere is created, where commerce, culture and community life meet. The development expands the existing commercial district with modern shops, restaurants, services, residential buildings and community spaces. Public spaces are renewed, pedestrian and transport connections improve, and the area becomes tidier and more liveable. The investment creates new jobs, supports local businesses and makes the area more liveable and attractive.",
+    "finance": [
+      "Startup cost: 28,000",
+      "Running cost: 8,000",
+      "Investment: 120,000",
+      "Development support from the partner company: 25,000"
+    ],
+    "effects": [
+      "Business-friendliness: 1%",
+      "Sustainability: -0.2%",
+      "Air quality: -0.3%",
+      "Ratio of green areas: -0.7%",
+      "Digitalization: 0.2%",
+      "Public safety: 0.5%",
+      "Culture: 0.8%",
+      "Ratio of people in a poor social situation: -0.1%",
+      "Settlement development: 1.7%",
+      "Transport quality: 0.7%",
+      "Ratio of public transportation users, %: 0.1%",
+      "Population conditions/satisfaction: 0.8%",
+      "Working conditions: 0.4%",
+      "Unemployment: -0.8%",
+      "Number of small companies: 0.06%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "3 - Local Food Supply",
+    "description": "By modernising the four existing farmers' markets and expanding their range, fresh local food becomes available in more places. New sales points, refrigeration and storage facilities are built, and an online marketplace enables pre-ordering and local pick-up. Regular gastronomic and family programmes make the markets more attractive. The development increases local producers' revenues, creates new sales opportunities and jobs, reduces food transport needs and makes shopping more convenient for residents.",
+    "finance": [
+      "Startup cost: 7,000",
+      "Running cost: 1,500",
+      "Investment: 25,000",
+      "Development support from the partner company: 3,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.6%",
+      "Sustainability: 0.4%",
+      "Air quality: 0.1%",
+      "Waste management situation: 0.3%",
+      "Digitalization: 0.3%",
+      "Healthcare: 0.1%",
+      "Social: 0.2%",
+      "Ratio of people in a poor social situation: -0.4%",
+      "Settlement development: 0.3%",
+      "Population conditions/satisfaction: 0.5%",
+      "Unemployment: -0.2%",
+      "Number of small companies: 0.03%"
+    ]
+  },
+  {
+    "name": "4 - Circular Economy Pilot Project",
+    "description": "What is waste for one company can be a valuable raw material for another! Within the project, the municipality and local companies set up a joint system for recycling industrial by-products, waste and surplus energy. New collection, processing and material-exchange solutions are launched, reducing landfilling, energy consumption and pollution. The development lowers businesses' operating costs and creates new business opportunities and green jobs.",
+    "finance": [
+      "Startup cost: 8,000",
+      "Running cost: 2,000",
+      "Investment: 33,000",
+      "Development support from the partner company: 14,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.4%",
+      "Sustainability: 1.5%",
+      "Air quality: 0.3%",
+      "Waste management situation: 3%",
+      "Digitalization: 0.1%",
+      "Settlement development: 0.3%",
+      "Population conditions/satisfaction: 0.2%",
+      "Population education level: 0.2%",
+      "Unemployment: -0.2%",
+      "Number of small companies: 0.02%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "5 - Corporate Social Responsibility Platform",
+    "description": "Local large companies and the municipality create a joint platform that links companies' support opportunities with the district's development and community needs. Companies contribute financial support, expertise, equipment and volunteer work to educational, social, environmental and community programmes. Coordinated cooperation provides more resources for local initiatives and improves public services and residents' quality of life, while strengthening companies' local ties.",
+    "finance": [
+      "Startup cost: 3,000",
+      "Running cost: 2,000",
+      "Investment: 2,000",
+      "Development support from the partner company: 15,000"
+    ],
+    "effects": [
+      "Sustainability: 0.1%",
+      "Administration: 0.5%",
+      "Housing management: 0.1%",
+      "Digitalization: 0.1%",
+      "Educational institutions: 0.3%",
+      "Culture: 0.2%",
+      "Population conditions/satisfaction: 0.4%",
+      "Population education level: 0.3%"
+    ]
+  },
+  {
+    "name": "6 - Economic and Employment Cooperation",
+    "description": "Local businesses, the municipality, employment organisations and training institutions launch a joint programme to expand employment. Job placement tailored to companies' labour needs, vocational training, retraining and subsidised employment programmes help people find work. Special attention is paid to career starters and disadvantaged jobseekers. The cooperation reduces local unemployment and labour shortages, supports small businesses and increases residents' incomes.",
+    "finance": [
+      "Startup cost: 5,000",
+      "Running cost: 8,000",
+      "Investment: 3,000",
+      "Development support from the partner company: 2,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.7%",
+      "Educational institutions: 0.3%",
+      "Social: 0.4%",
+      "Ratio of people in a poor social situation: -0.5%",
+      "Population conditions/satisfaction: 0.3%",
+      "Working conditions: 0.2%",
+      "Population education level: 0.5%",
+      "Unemployment: -1%",
+      "Number of small companies: 0.01%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "7 - Local Economic Development Innovation and Knowledge Centre",
+    "description": "Local economic development is brought together by a new knowledge and innovation centre built on cooperation between the municipality, businesses and professional partners. The centre continuously analyses economic processes, monitors the results of development projects, identifies new investment opportunities and supports innovative initiatives. Regular research, professional programmes and knowledge sharing lead to better-founded municipal decisions, more efficient use of resources and more successful economic development.",
+    "finance": [
+      "Startup cost: 6,000",
+      "Running cost: 12,000",
+      "Investment: 15,000",
+      "Development support from the partner company: 8,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.8%",
+      "Administration: 0.7%",
+      "Digitalization: 0.5%",
+      "Settlement development: 0.1%",
+      "Population education level: 0.2%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "8 - Smart Economy Applications",
+    "description": "A new digital platform connects local businesses, the municipality and residents. Companies can access economic information, funding opportunities, advice and business partners in one place, while residents can more easily find local services. Data-driven and geospatial solutions support investment planning, city operations and economic decisions. The development reduces administrative burdens, improves the efficiency of public services and strengthens the competitiveness of local businesses.",
+    "finance": [
+      "Startup cost: 4,000",
+      "Running cost: 3,000",
+      "Investment: 22,000",
+      "Development support from the partner company: 3,500"
+    ],
+    "effects": [
+      "Business-friendliness: 0.5%",
+      "Administration: 1.1%",
+      "Digitalization: 2%",
+      "Working conditions: 0.3%",
+      "Number of small companies: 0.03%"
+    ]
+  },
+  {
+    "name": "9 - Community Funding System",
+    "description": "Residents and local businesses can jointly fund the developments that matter to them. On a new online platform, anyone can explore projects awaiting support, make a financial contribution and follow how the collected funds are used. The contributions can fund playgrounds, community spaces, green areas and local civic initiatives. The system brings new resources into urban development, speeds up smaller investments and strengthens residents' participation in local affairs.",
+    "finance": [
+      "Startup cost: 2,500",
+      "Running cost: 1,500",
+      "Investment: 6,500",
+      "Development support from the partner company: 12,000"
+    ],
+    "effects": [
+      "Sustainability: 0.2%",
+      "Administration: 0.3%",
+      "Housing management: 0.1%",
+      "Digitalization: 0.5%",
+      "Social: 0.3%",
+      "Sports: 0.1%",
+      "Culture: 0.2%",
+      "Settlement development: 0.2%",
+      "Population conditions/satisfaction: 0.6%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "10 - Innovation Fund",
+    "description": "The municipality and local companies set up a jointly financed innovation fund that supports new technological, economic and social solutions through calls for proposals. The funds finance smart city developments, environmental projects, digital services and innovations of local businesses. Grants are awarded based on expected results and feasibility. The fund stimulates new investments, attracts further development resources and strengthens the competitiveness of the local economy.",
+    "finance": [
+      "Startup cost: 3,500",
+      "Running cost: 14,000",
+      "Investment: 12,000",
+      "Development support from the partner company: 10,000"
+    ],
+    "effects": [
+      "Business-friendliness: 1%",
+      "Sustainability: 0.2%",
+      "Administration: 0.1%",
+      "Digitalization: 0.3%",
+      "Population conditions/satisfaction: 0.2%",
+      "Working conditions: 0.4%",
+      "Population education level: 0.1%",
+      "Unemployment: -0.3%",
+      "Number of small companies: 0.04%",
+      "Number of medium companies: 2%"
+    ]
+  },
+  {
+    "name": "11 - Local Crisis Fund",
+    "description": "Local small businesses receive quick financial help when unexpected economic difficulties threaten their operations. The municipality, companies and other supporters set up a joint crisis fund that helps struggling companies with preferential bridging loans, non-repayable grants and business advice. The programme primarily supports smaller shops, service providers and start-ups. Its aim is to preserve jobs, prevent business closures and strengthen the stability of the local economy.",
+    "finance": [
+      "Startup cost: 3,000",
+      "Running cost: 5,000",
+      "Investment: 18,000",
+      "Development support from the partner company: 8,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.4%",
+      "Administration: 0.1%",
+      "Digitalization: 0.2%",
+      "Social: 0.3%",
+      "Population conditions/satisfaction: 0.1%",
+      "Working conditions: 0.2%",
+      "Unemployment: -0.6%",
+      "Number of small companies: 0.02%"
+    ]
+  },
+  {
+    "name": "12 - Housing and Premises Management",
+    "description": "By modernising municipal rental flats and commercial premises, and by involving privately owned properties, new housing and community opportunities are created. The programme renovates run-down flats, puts vacant premises to use and offers affordable rental options for people in need, young people and local businesses. The development increases the utilisation of property assets, improves housing conditions, revitalises community life in the neighbourhoods and increases the municipality's rental income.",
+    "finance": [
+      "Startup cost: 8,000",
+      "Running cost: -12,000",
+      "Investment: 75,000",
+      "Development support from the partner company: 5,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.3%",
+      "Sustainability: 0.4%",
+      "Waste management situation: 0.1%",
+      "Administration: 0.2%",
+      "Housing management: 3%",
+      "Digitalization: 0.1%",
+      "Public safety: 1%",
+      "Social: 1%",
+      "Ratio of people in a poor social situation: -1.6%",
+      "Settlement development: 0.2%",
+      "Population conditions/satisfaction: 0.6%",
+      "Unemployment: -0.2%",
+      "Number of small companies: 0.03%"
+    ]
+  },
+  {
+    "name": "13 - IT Development",
+    "description": "Replacing the municipality's own IT systems with a unified system, with the necessary infrastructure investments and partial digitalisation of internal processes (enterprise information system).",
+    "finance": [
+      "Startup cost: 12,000",
+      "Running cost: -8,800",
+      "Investment: 43,000",
+      "Development support from the partner company: 0"
+    ],
+    "effects": [
+      "Administration: 4%",
+      "Digitalization: 3%",
+      "Population conditions/satisfaction: 0.7%",
+      "Working conditions: 1.3%",
+      "Population education level: 0.6%"
+    ]
+  },
+  {
+    "name": "14 - New Customer Service Centre",
+    "description": "A new, barrier-free municipal customer service centre is established at 26 Állomás Street, bringing the most important administrative services for residents and businesses together in one place. Digital administration, online appointment booking and modern reception areas reduce waiting times and the number of in-person visits. The renovation of the building tidies up the surroundings, and energy-efficient operation lowers maintenance costs. The development results in faster administration, more efficient municipal operations and higher resident satisfaction.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  },
+  {
+    "name": "Sports and Culture",
+    "description": "The more than 30 km long cellar system of Kőbánya's former limestone quarry holds many opportunities. The project aims to bring this unique underground world back to life: to host concerts, sports and cultural programmes, events and film shoots. The development increases Kőbánya's appeal and visibility, while revenues from programmes and rentals contribute to the maintenance and preservation of the cellar system.",
+    "finance": [
+      "Startup cost: 12,000",
+      "Running cost: -4,000",
+      "Investment: 63,000",
+      "Development support from the partner company: 2,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.1%",
+      "Digitalization: 0.1%",
+      "Public safety: 0.2%",
+      "Culture: 2%",
+      "Settlement development: 0.5%",
+      "Population conditions/satisfaction: 0.3%",
+      "Working conditions: 0.1%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "16 - Open Creative and Innovation Spaces",
+    "description": "Kőbánya's industrial past comes to life with new, creative functions! Modern creative workshops and innovation centres (living lab, makerspace) are created, where visitors can try 3D printing, robotics and other digital technologies. Cooperating community spaces in several parts of the district offer opportunities for learning, experimenting, realising their own ideas and projects, and even starting new businesses.",
+    "finance": [
+      "Startup cost: 6,000",
+      "Running cost: 4,000",
+      "Investment: 33,000",
+      "Development support from the partner company: 10,000"
+    ],
+    "effects": [
+      "Business-friendliness: 1%",
+      "Digitalization: 1%",
+      "Educational institutions: 0.5%",
+      "Culture: 0.4%",
+      "Settlement development: 0.6%",
+      "Population conditions/satisfaction: 0.2%",
+      "Working conditions: 0.3%",
+      "Population education level: 0.7%",
+      "Unemployment: -0.3%",
+      "Number of small companies: 0.03%"
+    ]
+  },
+  {
+    "name": "17 - Career Guidance and Talent Development",
+    "description": "In which professions can the engineers, researchers and technology specialists of the future work? Through cooperation between schools and local companies, the project helps young people choose a career and develop their talents. Factory visits, hands-on sessions, mentoring programmes and innovation workshops bring technical and scientific careers closer.",
+    "finance": [
+      "Startup cost: 2,500",
+      "Running cost: 0",
+      "Investment: 8,000",
+      "Development support from the partner company: 10,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.3%",
+      "Digitalization: 0.2%",
+      "Educational institutions: 0.7%",
+      "Population conditions/satisfaction: 0.2%",
+      "Working conditions: 0.3%",
+      "Population education level: 1%",
+      "Unemployment: 0.3%",
+      "Number of small companies: 0.01%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "18 - Listed Dreher Villa with a New Function",
+    "description": "The renovation of the historic Dreher Villa creates a new cultural and community centre in the heart of the district. The two-storey classicist building hosts exhibitions, concerts, community programmes, conferences and exclusive events. As part of the investment, the villa's façade, interiors and landscaped surroundings are renewed. Revenues from events and room rentals contribute to the long-term maintenance of the building, while the area is filled with new life.",
+    "finance": [
+      "Startup cost: 10,000",
+      "Running cost: -3,500",
+      "Investment: 65,000",
+      "Development support from the partner company: 5,000"
+    ],
+    "effects": [
+      "Ratio of green areas: 0.1%",
+      "Digitalization: 0.1%",
+      "Public safety: 0.2%",
+      "Culture: 1.5%",
+      "Settlement development: 0.6%",
+      "Population conditions/satisfaction: 0.3%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "19 - Multifunctional Sports Centre",
+    "description": "A modern sports and swimming complex is built, offering new opportunities for sports, recreation and a healthy lifestyle. The facility welcomes residents with swimming pools, sports courts, gyms and community spaces, while also hosting sporting events and competitions. The investment renews part of the surrounding public spaces and transport links, makes the neighbourhood more attractive, and new hospitality and service businesses can appear.",
+    "finance": [
+      "Startup cost: 15,000",
+      "Running cost: 27,000",
+      "Investment: 240,000",
+      "Development support from the partner company: 88,000"
+    ],
+    "effects": [
+      "Sustainability: -0.2%",
+      "Ratio of green areas: -0.3%",
+      "Digitalization: 0.1%",
+      "Public safety: 0.2%",
+      "Educational institutions: 0.3%",
+      "Healthcare: 0.6%",
+      "Sports: 3%",
+      "Settlement development: 1.8%",
+      "Transport quality: 0.3%",
+      "Population conditions/satisfaction: 1.3%",
+      "Number of small companies: 0.05%"
+    ]
+  },
+  {
+    "name": "20 - Coordination of Training Partnerships",
+    "description": "Through cooperation between local schools, universities and companies, training programmes are launched that are directly based on the district's labour market needs. New internship places, company training workshops, adult education and off-campus university programmes are created. Young people can study and find jobs close to where they live, and local companies can more easily find qualified workers. The development reduces labour shortages, increases local employment and strengthens the district's economic competitiveness.",
+    "finance": [
+      "Startup cost: 5,000",
+      "Running cost: 3,000",
+      "Investment: 11,000",
+      "Development support from the partner company: 1,500"
+    ],
+    "effects": [
+      "Business-friendliness: 0.4%",
+      "Digitalization: 0.1%",
+      "Educational institutions: 1.2%",
+      "Social: 0.2%",
+      "Ratio of people in a poor social situation: 0.3%",
+      "Population conditions/satisfaction: 0.3%",
+      "Working conditions: 0.2%",
+      "Population education level: 1%",
+      "Unemployment: -1.3%"
+    ]
+  },
+  {
+    "name": "21 - Transport Museum",
+    "description": "The new building complex of the Hungarian Museum of Science, Technology and Transport is created by transforming the industrial site of the former Northern Vehicle Repair Works. The investment preserves the valuable industrial buildings and gives them new functions, while tidy public spaces, green areas and new pedestrian connections are created. The cultural centre of national importance attracts visitors and further investments to the area, boosts hospitality and commerce, creates new jobs, and increases the value of surrounding properties and the attractiveness of the district.",
+    "finance": [
+      "Startup cost: 7,000",
+      "Running cost: 0",
+      "Investment: 28,000",
+      "Development support from the partner company: 0"
+    ],
+    "effects": [
+      "Sustainability: 0.3%",
+      "Air quality: 0.2%",
+      "Ratio of green areas: 1.1%",
+      "Digitalization: 0.2%",
+      "Public safety: 0.4%",
+      "Educational institutions: 0.3%",
+      "Culture: 2.5%",
+      "Settlement development: 1.6%",
+      "Transport quality: 0.4%",
+      "Population conditions/satisfaction: 0.8%",
+      "Working conditions: 0.1%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "22 - Opera House Rehearsal Centre and Workshop House",
+    "description": "The abandoned industrial halls of the former Northern Vehicle Repair Works come back to life as the workshop and rehearsal centre of the Hungarian State Opera. The 33,000 m² complex houses a theatre hall, rehearsal rooms, set and costume workshops, and exhibition spaces. The brownfield investment preserves the industrial monuments and also creates a 3-hectare park with a playground, sports and recreation areas. The development creates a new cultural and community destination, provides jobs, attracts visitors and significantly increases the attractiveness of the area.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  },
+  {
+    "name": "23 - Basketball Hall",
+    "description": "A modern basketball hall is built at 88 Harmat Street, creating new opportunities for youth development, competitive sport and recreational sport. The facility hosts training sessions, league matches, school sports programmes and community events. As part of the investment, the building's surroundings and the related transport areas are tidied up. The development expands the district's sports infrastructure, encourages young people to play sports and increases the attractiveness of the area.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  },
+  {
+    "name": "24 - Velodrome",
+    "description": "A modern velodrome, i.e. an indoor cycling race track, is built on Hangár Street, creating new opportunities for both road and track cycling. The sports centre hosts training sessions, national and international competitions, youth development programmes and community sports events. The investment develops the district's sports infrastructure, attracts new visitors, boosts local hospitality and services, and strengthens the popularity of cycling and the district's sporting life.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  },
+  {
+    "name": "Transport",
+    "description": "Bosch's new 10,000 m² test track provides opportunities to develop and test the latest technologies of autonomous and electric vehicles. The project builds on cooperation between the company, the municipality, universities and domestic start-ups, creating new research and development opportunities. The investment can attract innovative businesses to the district, while also strengthening local education and training programmes.",
+    "finance": [
+      "Startup cost: 5,000",
+      "Running cost: 0",
+      "Investment: 15,000",
+      "Development support from the partner company: 4,500"
+    ],
+    "effects": [
+      "Business-friendliness: 1%",
+      "Air quality: -0.1%",
+      "Ratio of green areas: -0.2%",
+      "Educational institutions: 0.3%",
+      "Settlement development: 0.2%",
+      "Population conditions/satisfaction: -0.3%",
+      "Working conditions: 0.4%",
+      "Population education level: 0.3%",
+      "Unemployment: -0.1%",
+      "Number of small companies: 0.02%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "26 - Improving Airport Access",
+    "description": "Improving road access to Budapest Liszt Ferenc International Airport. A state investment to which the municipality contributes by providing traffic management and land use. Besides airport traffic, the new expressway also supports residents' everyday travel.",
+    "finance": [
+      "Startup cost: 8,000",
+      "Running cost: 0",
+      "Investment: 20,000",
+      "Development support from the partner company: 0"
+    ],
+    "effects": [
+      "Sustainability: -0.2%",
+      "Air quality: 0.1%",
+      "Public safety: 2%",
+      "Settlement development: 1%",
+      "Transport quality: 3%",
+      "Ratio of public transportation users, %: -0.4%",
+      "Population conditions/satisfaction: 0.3%",
+      "Working conditions: 0.2%",
+      "Unemployment: -0.1%",
+      "Number of small companies: 0.01%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "27 - Railway Development",
+    "description": "As part of the development of the Budapest Ring Railway, new railway stops are built, and the Népliget stop and the stop along Hungária Boulevard are developed.",
+    "finance": [
+      "Startup cost: 3,000",
+      "Running cost: 0",
+      "Investment: 12,000",
+      "Development support from the partner company: 0"
+    ],
+    "effects": [
+      "Business-friendliness: 0.2%",
+      "Sustainability: 1%",
+      "Air quality: 0.4%",
+      "Digitalization: 0.2%",
+      "Public safety: 0.6%",
+      "Settlement development: 1%",
+      "Transport quality: 2.5%",
+      "Ratio of public transportation users, %: 1.4%",
+      "Population conditions/satisfaction: 0.6%",
+      "Working conditions: 0.3%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "28 - New Trolleybus Line",
+    "description": "Developing Kőbánya's public transport network with a planned trolleybus line towards Kápolna Street.",
+    "finance": [
+      "Startup cost: 1,200",
+      "Running cost: 0",
+      "Investment: 3,800",
+      "Development support from the partner company: 0"
+    ],
+    "effects": [
+      "Sustainability: 0.3%",
+      "Air quality: 0.5%",
+      "Settlement development: 0.1%",
+      "Transport quality: 0.8%",
+      "Ratio of public transportation users, %: 0.4%",
+      "Population conditions/satisfaction: 0.1%"
+    ]
+  },
+  {
+    "name": "29 - Cycle Path Development",
+    "description": "A new, continuous cycle route is built along the Rákos stream, connecting Kőbánya with Zugló and District XVII and joining the city's cycle path network. The development provides safer travel for those setting off from the surrounding residential areas to work, school or sports. Rest areas, bicycle racks and landscaped green spaces are created along the route. The investment reduces car use and air pollution, while turning the streamside into an attractive leisure route.",
+    "finance": [
+      "Startup cost: 8,000",
+      "Running cost: 2,500",
+      "Investment: 43,000",
+      "Development support from the partner company: 2,000"
+    ],
+    "effects": [
+      "Sustainability: 0.8%",
+      "Air quality: 0.2%",
+      "Ratio of green areas: 0.3%",
+      "Public safety: 0.6%",
+      "Settlement development: 0.7%",
+      "Transport quality: 1.5%",
+      "Ratio of public transportation users, %: -0.2%",
+      "Population conditions/satisfaction: 0.6%",
+      "Number of small companies: 0.02%"
+    ]
+  },
+  {
+    "name": "30 - Expansion of the Community Bike Service (Bubi)",
+    "description": "Building new stations and the infrastructure for storing, maintaining and transporting bikes, doubling the existing coverage (to 42% of the district).",
+    "finance": [
+      "Startup cost: 3,000",
+      "Running cost: 5,000",
+      "Investment: 18,000",
+      "Development support from the partner company: 3,000"
+    ],
+    "effects": [
+      "Sustainability: 0.4%",
+      "Air quality: 0.1%",
+      "Digitalization: 0.3%",
+      "Public safety: -0.1%",
+      "Settlement development: 0.2%",
+      "Transport quality: 1.1%",
+      "Ratio of public transportation users, %: -0.3%",
+      "Population conditions/satisfaction: 0.4%"
+    ]
+  },
+  {
+    "name": "31 - P+R Car Parks by the Railway",
+    "description": "Building P+R car parks next to major railway and public transport hubs, as well as at the city boundary and in the agglomeration, primarily on brownfield sites or in underground garages.",
+    "finance": [
+      "Startup cost: 8,000",
+      "Running cost: -3,500",
+      "Investment: 64,000",
+      "Development support from the partner company: 4,000"
+    ],
+    "effects": [
+      "Business-friendliness: 0.2%",
+      "Air quality: 0.3%",
+      "Ratio of green areas: -0.6%",
+      "Digitalization: 0.1%",
+      "Public safety: 0.7%",
+      "Settlement development: 0.4%",
+      "Transport quality: 1.2%",
+      "Ratio of public transportation users, %: 1.5%",
+      "Population conditions/satisfaction: 0.4%"
+    ]
+  },
+  {
+    "name": "Environment",
+    "description": "Kőbánya's former clay pit, the Aknabánya, gets a new role: a 10-hectare energy forest, a solar park, and biogas and landfill gas utilisation facilities are created on the reclaimed site. The complex produces 8,000 MWh of electricity and 6,000 MWh of heat per year, feeding 80% of the electricity into the grid. The development is estimated to reduce CO₂ emissions by 3,000 tonnes per year, while improving the environmental condition of the area.",
+    "finance": [
+      "Startup cost: 25,000",
+      "Running cost: -45,000",
+      "Investment: 210,000",
+      "Development support from the partner company: 10,000"
+    ],
+    "effects": [
+      "Sustainability: 2.5%",
+      "Air quality: 0.5%",
+      "Ratio of green areas: 0.6%",
+      "Waste management situation: 0.8%",
+      "Settlement development: 0.5%",
+      "Population conditions/satisfaction: 0.2%",
+      "Working conditions: 0.1%",
+      "Number of medium companies: 1%"
+    ]
+  },
+  {
+    "name": "33 - Renewal of Népliget",
+    "description": "One of the city's largest public parks is renewed and becomes a popular venue for sports, recreation and community life. New running tracks, cycle paths, playgrounds and rest areas are built, while green spaces are landscaped and public lighting and public safety are improved. The development increases the park's visitor numbers, encourages outdoor sports and strengthens the area's hospitality and service businesses. The renewed green space improves the urban microclimate, supports biodiversity, and increases the value of surrounding properties and residents' quality of life.",
+    "finance": [
+      "Startup cost: 18,000",
+      "Running cost: 3,000",
+      "Investment: 180,000",
+      "Development support from the partner company: 5,000"
+    ],
+    "effects": [
+      "Sustainability: 0.7%",
+      "Air quality: 0.4%",
+      "Ratio of green areas: 10%",
+      "Public safety: 1.8%",
+      "Sports: 1.5%",
+      "Settlement development: 1%",
+      "Transport quality: 0.3%",
+      "Population conditions/satisfaction: 1.4%",
+      "Number of small companies: 0.01%"
+    ]
+  },
+  {
+    "name": "34 - Robert Bosch Campus Expansion",
+    "description": "The expansion of Robert Bosch's development campus creates a 90,000 m² innovation centre with modern research laboratories, a vehicle test track and 1,800 jobs. The former industrial site is transformed, and landscaped green areas, walkways, ponds and rest areas are created around the buildings, with more than 200 new trees planted. The campus buildings are linked by new pedestrian connections. The investment strengthens the district's technological role, increases its economic performance and creates a tidier, greener environment.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  },
+  {
+    "name": "35 - Richter Centre – New Corporate Headquarters",
+    "description": "Richter Gedeon's new 17,400 m², six-storey headquarters is being built on Gyömrői Road, with an investment of around HUF 20 billion. The modern office building expands the company's headquarters with more than 400 workstations, conference and community spaces. As part of the development, landscaped green areas, bicycle racks, electric car chargers and new parking spaces are created. The energy-efficient building modernises the area's townscape, strengthens the district's pharmaceutical and innovation role, and helps retain a highly qualified workforce locally.",
+    "finance": [
+      "Startup cost: 0",
+      "Running cost: 0",
+      "Investment: 0",
+      "Development support from the partner company: 0"
+    ],
+    "effects": []
+  }
+]

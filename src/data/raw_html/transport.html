@@ -1,0 +1,396 @@
+<script>
+    void 0===Math.sign&&(Math.sign=function(n){return n<0?-1:n>0?1:0})
+</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q7X175JCH6"></script>
+<script>
+    function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-Q7X175JCH6")
+</script>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<!--[if IE]>
+      <div className='old-browser'>You are running an un-supported version of Internet Explorer. Please upgrade</div>
+    <![endif]-->
+<div id="root">
+    <div class="App">
+        <div class="wrapper">
+            <aside id="sidebar" class="">
+                <div class="main-content">
+                    <div class="container">
+                        <a href="/">
+                            <div class="brand">
+                                <img class="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2RpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo5OEYwRDI5NTdCNUZFNDExODdFN0I0MDJGNkI0RUIxMCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpGMkRBRTFERDZCMUExMUU4ODU0MEQ2NkMyNTc0ODA5NyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpGMkRBRTFEQzZCMUExMUU4ODU0MEQ2NkMyNTc0ODA5NyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M0IFdpbmRvd3MiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpEQzIzODIwMTY3RTYxMUU4QkE0OEE0NDYxNUFBNTMyMiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpEQzIzODIwMjY3RTYxMUU4QkE0OEE0NDYxNUFBNTMyMiIvPiA8L3JkZjpEZXNjcmlwdGlv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" alt="Logo">
+                                <div class="title">Edu</div>
+                            </div>
+                        </a>
+                        <nav>
+                            <ul class="menu">
+                                <li class="item">
+                                    <a href="/dashboard"><i class="fas fa-home"></i>Dashboard</a>
+                                </li>
+                                <li class="item">
+                                    <a href="/courses"><i class="fab fa-accusoft"></i>Courses</a>
+                                </li>
+                                <li class="item">
+                                    <a href="/lobby"><i class="fas fa-user-friends"></i>Lobby</a>
+                                </li>
+                                <li class="item">
+                                    <a class="active" aria-current="page" href="/simulation"><i class="fas fa-chart-line"></i>Simulation</a>
+                                    <span class="submenu-toggle active">
+                                        <i class="fas fa-angle-down">
+                                        </i>
+                                    </span>
+                                    <ul class="sub">
+                                        <li class="item">
+                                            <a href="/simulation/summary"><i class="fa-solid fa-chart-pie"></i>Summary</a>
+                                        </li>
+                                        <li class="item">
+                                            <a class="active" aria-current="page" href="/simulation/projects"><i class="fa-solid fa-hand-holding-hand"></i>Projects</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/institutions"><i class="fa-solid fa-building"></i>City institutions</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/transport"><i class="fa-solid fa-bus"></i>Public transport</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/income"><i class="fa-solid fa-money-bill-trend-up"></i>Revenues</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/population"><i class="fa-solid fa-users"></i>Population</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/corporations"><i class="fa-solid fa-city"></i>Businesses</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/loans"><i class="fa-solid fa-file-invoice-dollar"></i>Loans</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/finance"><i class="fa-solid fa-coins"></i>Finances</a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="/simulation/analysis"><i class="fa-solid fa-chart-bar"></i>Analysis</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </aside>
+            <main id="main" class="smartCity">
+                <nav class="nav light">
+                    <div class="left d-flex">
+                        <span class="toggle">
+                            <i class="fas fa-bars">
+                            </i>
+                        </span>
+                        <div class="title">X-Challenge 2026 Tesztforduló</div>
+                    </div>
+                    <div class="right">
+                        <div class="actions">
+                            <i class="fas fa-ellipsis-v">
+                            </i>
+                        </div>
+                        <div class="profile">
+                            <i class="fas fa-user-astronaut">
+                            </i>
+                        </div>
+                        <div class="language">
+                            <span>EN</span>
+                        </div>
+                    </div>
+                </nav>
+                <div class="simulation">
+                    <header class="page-header">
+                        <div class="container fluid">
+                            <div class="bar">
+                                <div class="left">Tesztforduló<i class="fas fa-circle"></i>Pool: B<i class="fas fa-circle"></i><div><strong>Poople</strong></div><i class="fas fa-circle"></i><div><strong>2d 4h</strong></div><i class="fas fa-circle"></i><div class="d-flex"><button class="button left-arrow trans small" disabled="" type="primary"><span><i class="fas fa-angle-left"></i></span></button><div>Period: 1/1</div><button class="button right-arrow trans small" disabled="" type="primary"><span><i class="fas fa-angle-right"></i></span></button></div></div>
+                                <div class="right">
+                                    <button class="button primary buckle" title="View" type="primary">
+                                        <span>
+                                            <i class="fas fa-caret-down">
+                                            </i>
+                                            <span class="text">View</span>
+                                        </span>
+                                    </button>
+                                    <button class="button primary buckle" type="primary" title="Export">
+                                        <span>
+                                            <i class="far fa-file">
+                                            </i>
+                                            <span class="text">Export</span>
+                                        </span>
+                                    </button>
+                                    <button class="button primary buckle" title="Save" type="primary">
+                                        <span>
+                                            <i class="far fa-save">
+                                            </i>
+                                            <span class="text">Save</span>
+                                        </span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="container fluid">
+                        <div class="projects">
+                            <div class="box   ">
+                                <div class="title-row">
+                                    <div class="title ">Environment</div>
+                                    <div class="buttons line" style="width: auto;">
+                                        <button class="button trans small" title="" type="primary">
+                                            <span>
+                                                <i class="fas fa-angle-up">
+                                                </i>
+                                            </span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="body">
+                                    <p>This category covers projects aimed at improving the city's environmental sustainability. Their goal is to develop water management, waste management and green spaces, and to improve air quality.</p>
+                                    <div class="line my-1 overflow-y-auto">
+                                        <button class="button button primary big full" title="Economic Development" type="primary">
+                                            <span>
+                                                <i class="fa-solid fa-city">
+                                                </i>
+                                            </span>
+                                        </button>
+                                        <button class="button button primary big full" title="Sports and Culture" type="primary">
+                                            <span>
+                                                <i class="fa-solid fa-bolt">
+                                                </i>
+                                            </span>
+                                        </button>
+                                        <button class="button button primary big full" title="Transport" type="primary">
+                                            <span>
+                                                <i class="fa-solid fa-road">
+                                                </i>
+                                            </span>
+                                        </button>
+                                        <button class="button button success big full" title="Environment" type="primary">
+                                            <span>
+                                                <i class="fa-solid fa-droplet">
+                                                </i>
+                                            </span>
+                                        </button>
+                                    </div>
+                                    <small>
+                                    </small>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="box   ">
+                                        <div class="title-row">
+                                            <div class="title ">32 - Renewable Energy Park</div>
+                                            <div class="buttons line" style="width: auto;">
+                                                <button class="button trans small" title="" type="primary">
+                                                    <span>
+                                                        <i class="fas fa-angle-up">
+                                                        </i>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="body">
+                                            <div class="row mb-1">
+                                                <div class="col-12">
+                                                    <div class="desc mb-1">Kőbánya's former clay pit, the Aknabánya, gets a new role: a 10-hectare energy forest, a solar park, and biogas and landfill gas utilisation facilities are created on the reclaimed site. The complex produces 8,000 MWh of electricity and 6,000 MWh of heat per year, feeding 80% of the electricity into the grid. The development is estimated to reduce CO₂ emissions by 3,000 tonnes per year, while improving the environmental condition of the area.</div>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Finance</h4>
+                                                        <ul class="finances mt-1">
+                                                            <li>Startup cost: 25,000</li>
+                                                            <li>Running cost: -45,000</li>
+                                                            <li>Investment: 210,000</li>
+                                                            <li>Development support from the partner company: 10,000</li>
+                                                        </ul>
+                                                    </div>
+                                                    <br>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Effects</h4>
+                                                        <ul class="effects mt-1">
+                                                            <li>Sustainability: 2.5%</li>
+                                                            <li>Air quality: 0.5%</li>
+                                                            <li>Ratio of green areas: 0.6%</li>
+                                                            <li>Waste management situation: 0.8%</li>
+                                                            <li>Settlement development: 0.5%</li>
+                                                            <li>Population conditions/satisfaction: 0.2%</li>
+                                                            <li>Working conditions: 0.1%</li>
+                                                            <li>Number of medium companies: 1%</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <button class="button primary" title="Start" type="primary">
+                                                <span>
+                                                    <span class="text">Start</span>
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="box   ">
+                                        <div class="title-row">
+                                            <div class="title ">33 - Renewal of Népliget</div>
+                                            <div class="buttons line" style="width: auto;">
+                                                <button class="button trans small" title="" type="primary">
+                                                    <span>
+                                                        <i class="fas fa-angle-up">
+                                                        </i>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="body">
+                                            <div class="row mb-1">
+                                                <div class="col-12">
+                                                    <div class="desc mb-1">One of the city's largest public parks is renewed and becomes a popular venue for sports, recreation and community life. New running tracks, cycle paths, playgrounds and rest areas are built, while green spaces are landscaped and public lighting and public safety are improved. The development increases the park's visitor numbers, encourages outdoor sports and strengthens the area's hospitality and service businesses. The renewed green space improves the urban microclimate, supports biodiversity, and increases the value of surrounding properties and residents' quality of life.</div>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Finance</h4>
+                                                        <ul class="finances mt-1">
+                                                            <li>Startup cost: 18,000</li>
+                                                            <li>Running cost: 3,000</li>
+                                                            <li>Investment: 180,000</li>
+                                                            <li>Development support from the partner company: 5,000</li>
+                                                        </ul>
+                                                    </div>
+                                                    <br>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Effects</h4>
+                                                        <ul class="effects mt-1">
+                                                            <li>Sustainability: 0.7%</li>
+                                                            <li>Air quality: 0.4%</li>
+                                                            <li>Ratio of green areas: 10%</li>
+                                                            <li>Public safety: 1.8%</li>
+                                                            <li>Sports: 1.5%</li>
+                                                            <li>Settlement development: 1%</li>
+                                                            <li>Transport quality: 0.3%</li>
+                                                            <li>Population conditions/satisfaction: 1.4%</li>
+                                                            <li>Number of small companies: 0.01%</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <button class="button primary" title="Start" type="primary">
+                                                <span>
+                                                    <span class="text">Start</span>
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="box   ">
+                                        <div class="title-row">
+                                            <div class="title ">34 - Robert Bosch Campus Expansion</div>
+                                            <div class="buttons line" style="width: auto;">
+                                                <button class="button trans small" title="" type="primary">
+                                                    <span>
+                                                        <i class="fas fa-angle-up">
+                                                        </i>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="body">
+                                            <div class="row mb-1">
+                                                <div class="col-12">
+                                                    <div class="desc mb-1">The expansion of Robert Bosch's development campus creates a 90,000 m² innovation centre with modern research laboratories, a vehicle test track and 1,800 jobs. The former industrial site is transformed, and landscaped green areas, walkways, ponds and rest areas are created around the buildings, with more than 200 new trees planted. The campus buildings are linked by new pedestrian connections. The investment strengthens the district's technological role, increases its economic performance and creates a tidier, greener environment.</div>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Finance</h4>
+                                                        <ul class="finances mt-1">
+                                                            <li>Startup cost: 0</li>
+                                                            <li>Running cost: 0</li>
+                                                            <li>Investment: 0</li>
+                                                            <li>Development support from the partner company: 0</li>
+                                                        </ul>
+                                                    </div>
+                                                    <br>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>
+                                                        </h4>
+                                                        <ul class="effects mt-1">
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <button class="button primary" disabled="" type="primary">
+                                                <span>
+                                                    <span class="text">Run</span>
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="box   ">
+                                        <div class="title-row">
+                                            <div class="title ">35 - Richter Centre – New Corporate Headquarters</div>
+                                            <div class="buttons line" style="width: auto;">
+                                                <button class="button trans small" title="" type="primary">
+                                                    <span>
+                                                        <i class="fas fa-angle-up">
+                                                        </i>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                        <div class="body">
+                                            <div class="row mb-1">
+                                                <div class="col-12">
+                                                    <div class="desc mb-1">Richter Gedeon's new 17,400 m², six-storey headquarters is being built on Gyömrői Road, with an investment of around HUF 20 billion. The modern office building expands the company's headquarters with more than 400 workstations, conference and community spaces. As part of the development, landscaped green areas, bicycle racks, electric car chargers and new parking spaces are created. The energy-efficient building modernises the area's townscape, strengthens the district's pharmaceutical and innovation role, and helps retain a highly qualified workforce locally.</div>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>Finance</h4>
+                                                        <ul class="finances mt-1">
+                                                            <li>Startup cost: 0</li>
+                                                            <li>Running cost: 0</li>
+                                                            <li>Investment: 0</li>
+                                                            <li>Development support from the partner company: 0</li>
+                                                        </ul>
+                                                    </div>
+                                                    <br>
+                                                </div>
+                                                <div class="col-6">
+                                                    <div>
+                                                        <h4>
+                                                        </h4>
+                                                        <ul class="effects mt-1">
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <button class="button primary" disabled="" type="primary">
+                                                <span>
+                                                    <span class="text">Run</span>
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+</div>
